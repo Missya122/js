@@ -1,0 +1,1 @@
+ myStates.forEach((state) => (console.log(state)));
